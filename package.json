@@ -36,8 +36,10 @@
     "index.js",
     "bin/**/*",
     "examples/**/*",
-    "README.md",
+    "scripts/**/*",
+    "README.md", 
     "DEVELOPER.md",
+    "INSTALLATION.md",
     "LICENSE"
   ],
   "os": ["darwin", "linux"],
