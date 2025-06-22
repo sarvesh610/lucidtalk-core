@@ -32,6 +32,16 @@
   "engines": {
     "node": ">=16.0.0"
   },
+  "files": [
+    "index.js",
+    "bin/**/*",
+    "examples/**/*",
+    "README.md",
+    "DEVELOPER.md",
+    "LICENSE"
+  ],
+  "os": ["darwin", "linux"],
+  "cpu": ["x64", "arm64"],
   "dependencies": {
     "eventemitter3": "^5.0.1"
   }
