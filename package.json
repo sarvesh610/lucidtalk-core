@@ -1,0 +1,38 @@
+{
+  "name": "lucidtalk-core",
+  "version": "1.0.0",
+  "description": "Privacy-first P2P meeting transcription and AI SDK",
+  "main": "index.js",
+  "scripts": {
+    "start": "node examples/basic-example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "p2p",
+    "privacy",
+    "transcription",
+    "ai",
+    "meetings",
+    "hyperdrive",
+    "whisper",
+    "real-time",
+    "offline",
+    "local-first"
+  ],
+  "author": "Sarvesh <7716861+sarvesh610@users.noreply.github.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarvesh610/lucidtalk-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sarvesh610/lucidtalk-core/issues"
+  },
+  "homepage": "https://github.com/sarvesh610/lucidtalk-core#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "eventemitter3": "^5.0.1"
+  }
+}
