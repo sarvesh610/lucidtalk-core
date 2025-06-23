@@ -1,7 +1,7 @@
 {
   "name": "lucidtalk-core",
   "version": "1.0.0",
-  "description": "Privacy-first P2P meeting transcription and AI SDK",
+  "description": "Privacy-first P2P meeting transcription and AI SDK for developers",
   "main": "index.js",
   "scripts": {
     "start": "node examples/basic-example.js",

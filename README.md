@@ -1,8 +1,8 @@
 # 🚀 LucidTalk Core
 
-**Privacy-first P2P meeting transcription and AI SDK**
+**Privacy-first P2P meeting transcription and AI SDK for developers**
 
-Clean, simple SDK that wraps LucidTalk's existing backend modules to provide a developer-friendly interface.
+Clean, simple SDK that wraps LucidTalk's existing backend modules to provide a developer-friendly interface for seamless integration.
 
 ## ✨ Features
 
